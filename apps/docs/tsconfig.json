@@ -1,6 +1,5 @@
 {
   "exclude": ["node_modules"],
-  "extends": "@idol51/tsconfig/nextjs.json",
   "compilerOptions": {
     "outDir": "dist",
     "incremental": true,

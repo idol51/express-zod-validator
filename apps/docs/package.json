@@ -15,12 +15,10 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@idol51/tsconfig": "workspace:*",
     "@next/eslint-plugin-next": "^14.1.1",
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.61",
     "@types/react-dom": "^18.2.19",
-    "@idol51/eslint-config": "workspace:*",
     "typescript": "5.5.4"
   }
 }

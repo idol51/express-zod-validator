@@ -1,5 +1,4 @@
 {
-  "extends": "@idol51/tsconfig/nextjs.json",
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
