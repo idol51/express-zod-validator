@@ -1,0 +1,25 @@
+{
+  "name": "@idol51/express-zod-validator",
+  "version": "0.1.0",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "peerDependencies": {
+    "express": "^4.0.0",
+    "zod": "^3.0.0"
+  },
+  "keywords": [
+    "express",
+    "zod",
+    "middleware",
+    "validation"
+  ],
+  "author": "Armaan Lodi",
+  "license": "MIT"
+}
