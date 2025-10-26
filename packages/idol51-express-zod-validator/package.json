@@ -8,7 +8,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup"
+    "build": "tsup src/index.ts --format esm,cjs --dts"
   },
   "peerDependencies": {
     "express": "^4.0.0",
@@ -23,6 +23,8 @@
   "author": "Armaan Lodi",
   "license": "MIT",
   "devDependencies": {
-    "@types/express": "^5.0.4"
+    "@swc/core": "^1.13.5",
+    "@types/express": "^5.0.4",
+    "typescript": "5.5.4"
   }
 }
