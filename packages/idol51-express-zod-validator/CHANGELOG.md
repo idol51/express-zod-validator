@@ -1,5 +1,11 @@
 # @idol51/express-zod-validator
 
+## 0.2.2
+
+### Patch Changes
+
+- da548d9: Fixed file paths in package.json
+
 ## 0.2.1
 
 ### Patch Changes
